@@ -8,6 +8,9 @@ using barbeque as main branch to avoid using main
 - A simple translator with no practical purpose, it is just for fun, if you want to try it out, feel free to go to stwnpp.waltercheng.com
 - Honestly, it is just svelte practice project
 
+### About the site
+- it converts English into few different things, I tried to make it translate the same thing as long as you type in the same thing even with the mocking spongebob one
+
 ### Libraries used
 - Svelma
 - sveltestrap
