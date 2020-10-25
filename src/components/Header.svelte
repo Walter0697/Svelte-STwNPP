@@ -31,7 +31,7 @@
 <Collapse {isOpen} navbar expand="md" on:update={handleUpdate}>
   <Nav class="ml-auto" navbar>
     <NavItem class="top-space">
-      <NavLink href="https://github.com/Walter0697">
+      <NavLink href="https://github.com/Walter0697/Svelte-STwNPP">
           <p>GitHub</p>
       </NavLink>
     </NavItem>

@@ -1,7 +1,7 @@
 # STwNPP
 ### Simple Translator with No Practical Purpose
 
-Built with svelte
+Built with svelte <br/>
 using barbeque as main branch to avoid using main
 
 ### Purpose
