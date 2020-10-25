@@ -26,7 +26,7 @@
 </script>
 
 <Navbar bind:color={currentTheme} light expand="md">
-<NavbarBrand href="/"><h3>Pointless Translator</h3></NavbarBrand>
+<NavbarBrand href="/"><h3>STwNPP</h3></NavbarBrand>
 <NavbarToggler on:click={() => (isOpen = !isOpen)} />
 <Collapse {isOpen} navbar expand="md" on:update={handleUpdate}>
   <Nav class="ml-auto" navbar>

@@ -5,7 +5,7 @@ Built with svelte <br/>
 using barbeque as main branch to avoid using main
 
 ### Purpose
-- A simple translator with no practical purpose, it is just for fun, if you want to try it out, feel free to go to translator.waltercheng.com
+- A simple translator with no practical purpose, it is just for fun, if you want to try it out, feel free to go to stwnpp.waltercheng.com
 - Honestly, it is just svelte practice project
 
 ### Libraries used
